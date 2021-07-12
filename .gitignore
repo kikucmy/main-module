@@ -1,0 +1,5 @@
+docker
+mysql-data
+.env
+docker-compose.yml
+server/app/Plugin
